@@ -1,4 +1,5 @@
 # Naive-Bees-Predict-Species-from-Images
+
 <p><img src="https://assets.datacamp.com/production/project_412/img/92_notebook.jpg" alt="honey bee">
 <em>A honey bee (Apis).</em></p>
 <p>Can a machine identify a bee as a honey bee or a bumble bee? These bees have different <a href="https://www.thesca.org/connect/blog/bumblebees-vs-honeybees-what%E2%80%99s-difference-and-why-does-it-matter">behaviors and appearances</a>, but given the variety of backgrounds, positions, and image resolutions, it can be a challenge for machines to tell them apart.</p>
